@@ -1,0 +1,14 @@
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\bin\Debug\net7.0\Examen Mattias Gijsels.exe
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\bin\Debug\net7.0\Examen Mattias Gijsels.deps.json
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\bin\Debug\net7.0\Examen Mattias Gijsels.runtimeconfig.json
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\bin\Debug\net7.0\Examen Mattias Gijsels.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\bin\Debug\net7.0\Examen Mattias Gijsels.pdb
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\Examen Mattias Gijsels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\Examen Mattias Gijsels.AssemblyInfoInputs.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\Examen Mattias Gijsels.AssemblyInfo.cs
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\Examen Mattias Gijsels.csproj.CoreCompileInputs.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\Examen Mattias Gijsels.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\refint\Examen Mattias Gijsels.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\Examen Mattias Gijsels.pdb
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\Examen Mattias Gijsels.genruntimeconfig.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\Examen Mattias Gijsels\Examen Mattias Gijsels\obj\Debug\net7.0\ref\Examen Mattias Gijsels.dll
